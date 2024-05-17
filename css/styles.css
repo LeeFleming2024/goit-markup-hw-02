@@ -47,6 +47,11 @@ a {
     color: #2e2f42;
 }
 
+.header-list-link:hover,
+.header-list-link:focus {
+    color: #404bbf;
+}
+
 .header-list-item:hover,
 .header-list-item:focus {
     color: #404bbf;
